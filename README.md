@@ -1,10 +1,8 @@
-# Crimson Giant Voices
+# Crimson Desert Troll Voices
 
 A Crimson Desert mod that drops every Troll voice 4 semitones (pitch
 x0.794) while keeping each line's length, so lip-sync and subtitles still
-match. English voice-over only. (Tried in game: -24 and -12 semitones were
-too hard to understand, -6 a little too deep.) Change `pitch` in
-`tools/build.py` to adjust.
+match. English voice-over only. Change `pitch` in `tools/build.py` to adjust.
 
 Covers 3,960 English files:
 
