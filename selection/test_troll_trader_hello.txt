@@ -1,0 +1,9 @@
+﻿sound/windows/english(us)/unique_shop_troll_trader_aidialogstringinfo_friendly_hello_42730.wem
+sound/windows/english(us)/unique_shop_troll_trader_aidialogstringinfogroup_hello_40723.wem
+sound/windows/english(us)/unique_shop_troll_trader_aidialogstringinfogroup_hello_40724.wem
+sound/windows/english(us)/unique_shop_troll_trader_aidialogstringinfogroup_hello_40725.wem
+sound/windows/english(us)/unique_shop_troll_trader_questdialog_hello_02082.wem
+sound/windows/english(us)/unique_shop_troll_trader_questdialog_hello_02083.wem
+sound/windows/english(us)/unique_shop_troll_trader_questdialog_hello_02084.wem
+sound/windows/english(us)/unique_shop_troll_trader_questdialog_hello_02085.wem
+sound/windows/english(us)/unique_shop_troll_trader_questdialog_hello_02086.wem
